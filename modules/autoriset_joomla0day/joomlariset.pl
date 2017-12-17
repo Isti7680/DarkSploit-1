@@ -1,10 +1,4 @@
-#Exploit Title: Joomla 1.5.x (Token) Remote Admin Change Password Vulnerability (perl)
-#Date: 27/01/2013
-#Exploit Author: D35m0nd142
-#Vendor Homepage: http://www.joomla.org/
-#CVE: 2008-3681
-#Thanks to d3m0n
-#Some parameters are variables (like cookies,User-Agent,PeerPort ...)
+#Exploit Title: Joomla 1.5.x (Token) Remote Admin Change Password Vulnerability
 #!/usr/bin/perl
 use LWP::UserAgent;
 use HTTP::Request::Common;
